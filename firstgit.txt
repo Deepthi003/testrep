@@ -1,7 +1,15 @@
-krjl
 =======
-rioejaoi;fjera
-reafeftgrew
+=======
+a
+b
+c
+d
+e
+f
+g
+h
+i
+:wqreafeftgrew
 re
 merging conflicts checking on feb 24th 2019
 this is my first git test for cloning
