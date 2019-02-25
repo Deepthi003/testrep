@@ -1,30 +1,6 @@
-=======
-=======
-a
-b
-c
-d
-e
-f
-g
-h
-i
-:wqreafeftgrew
-re
-i
-j
-k
-l
-m
-merging conflicts checking on feb 24th 2019
-this is my first git test for cloning
-conflicts checkng in master
-ka
-ds
-fa
-s
-6
-7
-conflicts testing
-=======
+Hi
 hello
+good mng
+feb2th
+feb 25th
+
