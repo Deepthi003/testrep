@@ -1,7 +1,5 @@
-hello
-showing no conflicts
-josjjsedsdknnnnnnnnnnnnnnnnnnnnnnnnnnn:wq
-e
+Push ,pull,fetch
+checking
 how are yu
 hello
 gdmng
