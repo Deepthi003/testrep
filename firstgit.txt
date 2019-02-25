@@ -1,3 +1,5 @@
+=======
+=======
 a
 b
 c
@@ -7,8 +9,7 @@ f
 g
 h
 i
-rioejaoi;fjera
-reafeftgrew
+:wqreafeftgrew
 re
 i
 j
@@ -17,6 +18,13 @@ l
 m
 merging conflicts checking on feb 24th 2019
 this is my first git test for cloning
+conflicts checkng in master
+ka
+ds
+fa
+s
+6
+7
 conflicts testing
 =======
 hello
