@@ -1,4 +1,11 @@
 this is my first git test for cloning
+conflicts checkng in master
+ka
+ds
+fa
+s
+6
+7
 conflicts testing
 =======
 hello
