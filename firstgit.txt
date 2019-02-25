@@ -1,3 +1,4 @@
+merging conflicts checking on feb 24th 2019
 this is my first git test for cloning
 conflicts testing
 =======
