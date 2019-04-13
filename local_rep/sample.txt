@@ -1,6 +1,1 @@
-Push ,pull,fetch
-checking
-how are yu
-hello
-gdmng
-checking conflict on 22nd feb
+jenkins testing 
