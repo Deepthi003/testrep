@@ -1,1 +1,3 @@
-jenkins testing 
+echo "jenkins testing "
+whoami
+echo "testing"
