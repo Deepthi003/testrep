@@ -1,13 +1,3 @@
-Testing on 27th in ofc
-fetching & merging
-adding another line
-how to do pull for sleected files
-hello
-good mng
-feb2th
-feb 26th 2019
-stash testing
-testing for pulling selected files .
-Hi ,hello
-good morning
-kelly technologoes
+echo "jenkins testing "
+whoami
+echo "testing"
